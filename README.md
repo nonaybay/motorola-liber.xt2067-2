@@ -16,4 +16,11 @@
         <td><strong><small>vendor</small></strong></td>
         <td><strong>B</strong></td>
     </tr>
+    <tr>
+        <td><code><small>70c9adc93c7173bcef4185a7a3f2ad96</small></code></td>
+        <td><small>1.4 Gb</small></td>
+        <td><code><small><a href="https://www.androidfilehost.com/?fid=14655340768118446234">system_slot_b.img</a></small></code></td>
+        <td><strong><small>system</small></strong></td>
+        <td><strong>B</strong></td>
+    </tr>
 </table>
